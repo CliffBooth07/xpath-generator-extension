@@ -20,8 +20,7 @@ This tool helps you avoid manually writing complex XPaths and makes automation s
 
 ## 📸 Screenshots 
 ![alt text](image.png)
-![alt text](image-1.png)
-*(Add a real screenshot/gif of your extension in action)*  
+![alt text](image-1.png) 
 
 ---
 
@@ -72,3 +71,4 @@ Pull requests are welcome! For major changes, please open an issue first to disc
 ---
 
 ⭐ If you like this project, don’t forget to **star the repo** and share it with other Automation Engineers 🚀  
+
