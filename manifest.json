@@ -1,0 +1,14 @@
+{
+  "manifest_version": 3,
+  "name": "XPath Click Copier",
+  "version": "1.0",
+  "description": "Click element to copy a smart XPath to clipboard, with visual highlight.",
+  "permissions": ["scripting", "activeTab", "clipboardWrite", "storage", "tabs"],
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": "icon.png"
+  },
+  "icons": {
+    "128": "icon.png"
+  }
+}
